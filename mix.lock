@@ -1,0 +1,4 @@
+%{
+  "broadway": {:hex, :broadway, "0.1.0", "e21ccf0db6175fef890ea51fbd3eb44f171657f8a04e34a1c2b08fdb4a3476b3", [:mix], [{:gen_stage, "~> 0.14", [hex: :gen_stage, repo: "hexpm", optional: false]}], "hexpm"},
+  "gen_stage": {:hex, :gen_stage, "0.14.1", "9d46723fda072d4f4bb31a102560013f7960f5d80ea44dcb96fd6304ed61e7a4", [:mix], [], "hexpm"},
+}
